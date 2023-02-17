@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="zero">0</string>
+    <string name="open_second_activity">Открыть вторую активити</string>
+</resources>
